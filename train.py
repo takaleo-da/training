@@ -6,3 +6,7 @@ a=2
 b=13
 s=a+b
 print(s)
+Print"La suite du code!")
+c=14
+d=s+c
+Print(d)
