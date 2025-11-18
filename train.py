@@ -11,3 +11,4 @@ c=14
 d=s+c
 Print(d)
 """Fin du code"""
+print("J'ai beaucoup appris de cette séance")
