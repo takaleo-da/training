@@ -1,2 +1,3 @@
-# training
-Ce projet me permet de créer le repository training
+# Projet d’entrainement de modèel, Checklist
+- Import data
+- Clean Data
